@@ -31,8 +31,7 @@
 ## 🐱‍💻✨ Github stats
 
 <p>
-    <img alt="status github, commits, etc..." height="200px" src="https://github-readme-stats.vercel.app/api?username=Dione-b&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"/>
-    <img alt="most used languages" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dione-b&count_private=true&theme=algolia&bg_color=0,130F40,000000&custom_title=Languages&layout=compact&border_radius=8&langs_count=20"/>
+<img alt="most used languages" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dione-b&count_private=true&theme=algolia&bg_color=0,130F40,000000&custom_title=Languages&layout=compact&border_radius=8&langs_count=20"/>
  
 <div> 
   <a href="https://www.instagram.com/diiibastos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
