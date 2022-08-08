@@ -1,4 +1,4 @@
-## Olá, sejam bem vindos. Me chamo Dione e esse é meu local onde guardo ideias e projetos. 💻💡
+## Passionate about technology and hacking and currently focused on gaining experience with development. 💻📚
  <div>
   <a href="https://github.com/dione-b">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dione-b&layout=compact&langs_count=7&theme=dark"/>
