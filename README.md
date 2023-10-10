@@ -1,6 +1,6 @@
 ## Passionate about technology and hacking and currently focused on gaining experience with development. 💻📚
  
-### 🐱‍💻 Technologies I use a lot 🐱‍💻
+### 🐱‍💻 Technology I use most 🐱‍💻
 <div style="display: inline_block"><br>
  <a href="#"><img height= "35" src= "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -10,24 +10,18 @@
 <a href="https://www.json.org/json-en.html"><img height= "35" src= "https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></a>
 <a href="https://www.npmjs.com/"><img height= "35" src= "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
 <a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
- <a href="#"><img height= "35" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
- <a href="#"><img height= "35" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
-</div>
-
-##
-
-### 📖 Technologies I'm Learning 📖
-<div style="display: inline_block"><br>
-<a href="#"><img height= "35" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"></a>
+<a href="#"><img height= "35" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="#"><img height= "35" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
+ <a href="#"><img height= "35" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"></a>
 <a href="https://reactjs.org/"><img height= "35" src= "https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 <a href="https://nextjs.org/"><img height= "35" src= "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
 <a href="https://www.markdownguide.org/"><img height= "35" src= "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
 <a href="#"><img height= "35" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a href="#"><img height= "35" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"></a>
 </div>
- 
- ##
- 
+
+##
+
 ## 🐱‍💻✨ Github stats
 
 <p>
