@@ -1,8 +1,8 @@
-## 💻📚 Passionate about disruptive technology such as blockchain and artificial intelligence. Focused on gaining experience with development and helping many people with technology. 💻📚
+#### 💻📚 Passionate about disruptive technology such as blockchain and artificial intelligence. Focused on gaining experience with development and helping many people with technology. 💻📚
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dione-b&label=Profile%20views&color=0e75b6&style=flat" alt="dione" /> </p>
  
-### 🐱‍💻 Technologies I use daily 🐱‍💻
+#### 🐱‍💻 Technologies I use daily 🐱‍💻
 <div style="display: inline_block"><br>
  <a href="#"><img height= "35" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
 <a href="#"><img height= "35" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>
@@ -15,7 +15,7 @@
 
 ##
 
-### 📚 Technologies I'm learning 📚
+#### 📚 Technologies I'm learning 📚
 <div style="display: inline_block"><br>
  <a href="#"><img height= "35" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
 <a href="#"><img height= "35" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"></a>
@@ -27,7 +27,7 @@
 
 ##
 
-## 🐱‍💻✨ Github stats
+### 🐱‍💻✨ Github stats
 
 <p>
 <img alt="most used languages" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dione-b&count_private=true&theme=algolia&bg_color=0,130F40,000000&custom_title=Languages&layout=compact&border_radius=8&langs_count=20"/>
