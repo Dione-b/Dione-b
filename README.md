@@ -1,37 +1,26 @@
-#### 💻📚 Passionate about disruptive technology such as blockchain and artificial intelligence. Focused on gaining experience with development and helping many people with technology. 💻📚
+🌎 Hello World !
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dione-b&label=Profile%20views&color=0e75b6&style=flat" alt="dione" /> </p>
- 
-#### 🐱‍💻 Technologies I use daily 🐱‍💻
-<div style="display: inline_block"><br>
- <a href="#"><img height= "35" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
-<a href="#"><img height= "35" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></a>
-<a href="#"><img height= "35" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
-<a href="#"><img height= "35" src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
- <a href="#"><img height= "35" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href="#"><img height= "35" src= "https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
-<a href="#"><img height= "35" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"></a>
-<a href="#"><img height= "35" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></a>
- <a href="#"><img height= "35" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-</div>
+Blockchain & Software Engineer with experience in designing, developing and integrating applications across Web2 and Web3. Skilled in building SaaS platforms, blockchain protocols, smart contracts, and developer tools. Active in the Brazilian Web3 ecosystem as speaker, and educator.
 
-##
+✅ 𝗠𝘆 𝗮𝗽𝗽𝗿𝗼𝗮𝗰𝗵 𝗶𝘀 𝗮𝗻𝗰𝗵𝗼𝗿𝗲𝗱 𝗶𝗻:
+- Technical excellence and clean architecture
+- Education and community building
+- Bridging Web2 and Web3
 
-#### 📚 Technologies I'm learning 📚
-<div style="display: inline_block"><br>
- <a href="#"><img height= "35" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
-<a href="#"><img height= "35" src= "https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
-<a href="#"><img height= "35" src="https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000"></a>
-</div>
+👨‍🏭 𝗖𝗮𝗿𝗲𝗲𝗿 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀:
+- **Web3 Speaker & Instructor** – Workshops and bootcamps on Blockchain, Rust, WebAssembly and Smart Contracts.  
+- **Founder & Developer** – SaaS platforms for startups and blockchain-based logistics solutions.  
+- **Blockchain Engineer** – Research and development of a cryptocurrency and ecosystem with mining, SDKs (Rust), and dApps.  
 
-##
+👨‍🎓 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 & 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴:
+- Blockchain workshops & bootcamps (focus: Rust, Stellar, Solidity)  
+- Degree in Information System 
+- Continuous self-learning in DeFi, RWA, and distributed systems  
 
-### 🐱‍💻✨ Github stats
+🎯 𝗦𝗸𝗶𝗹𝗹𝘀 𝗮𝗻𝗱 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲:
+- **Blockchain:** Stellar, Solidity, dApps, DeFi, RWA  
+- **Languages:** Rust, Go, PHP (Laravel), TypeScript/JavaScript (React, Next.js), SQL  
+- **Backend:** NestJS, Prisma, PostgreSQL, libSQL/SQLite  
+- **DevOps:** Docker, CI/CD, distributed systems, edge computing  
+- **Community:** Talks, workshops, technical content creation  
 
-<p>
-<img alt="most used languages" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dione-b&count_private=true&theme=algolia&bg_color=0,130F40,000000&custom_title=Languages&layout=compact&border_radius=8&langs_count=20"/>
- 
-<div> 
- <a href="https://www.linkedin.com/in/dione-bastos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://twitter.com/dibastoseth" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-</div>
